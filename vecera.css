@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 8%;
+  font-family: "Arial","Helvetica",sans-serif;
+  h1{
+    font-size: 130px;
+}
+}
+.img{
+      padding-top: 20px;
+      padding-left: 180px;
+    }
